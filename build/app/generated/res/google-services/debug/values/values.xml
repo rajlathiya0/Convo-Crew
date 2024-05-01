@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">422344311338</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOnbN25KGcXvCwkPbE6Z2ZktInxmgkZ8I</string>
+    <string name="google_app_id" translatable="false">1:422344311338:android:1afb282ab2037307533953</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOnbN25KGcXvCwkPbE6Z2ZktInxmgkZ8I</string>
+    <string name="google_storage_bucket" translatable="false">chatappflutter-8b585.appspot.com</string>
+    <string name="project_id" translatable="false">chatappflutter-8b585</string>
+</resources>
